@@ -1,0 +1,24 @@
+# Mac OS
+*.DS_Store
+
+# C
+*.o
+*.a
+
+# Corewar
+*.cor
+
+# Execs
+/asm
+/corewar
+/hcheck
+/cfc
+
+# Valgrind
+*.dSYM/
+
+# Visual Studio Code
+.vscode/
+
+# Vim
+*.sw*
